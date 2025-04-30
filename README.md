@@ -1,4 +1,18 @@
-<!DOCTYPE html>
+User-agent: *
+Allow: /
+<meta name="robots" content="index, follow">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://JIB2025.github.io/</loc>
+    <lastmod>2025-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+<meta name="description" content="太空國際">
+<meta name="keywords" content="太空國際 X JIB">
+
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
